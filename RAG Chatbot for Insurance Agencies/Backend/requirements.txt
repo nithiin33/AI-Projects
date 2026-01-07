@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pypdf
+tiktoken
+faiss-cpu
+numpy
+openai
+reportlab
